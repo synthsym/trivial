@@ -1,0 +1,21 @@
+{
+  "name": "trivial",
+  "version": "0.0.0",
+  "description": "Scoreboard with a bit of magic",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synthsym/trivial.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/synthsym/trivial/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.8",
+    "gulp-load-plugins": "~0.6.0",
+    "gulp-browserify": "~0.5.0",
+    "cjsxify": "~0.2.5"
+  }
+}
